@@ -2,13 +2,6 @@
 
 # Answers
 
-- **`query`**: /_You should copy/paste the query in here_/
-- **`projection`**: /_You should copy/paste the projection in here_/
-- **`sort`**: /_You should copy/paste the sort in here_/
-- **`skip`**: /_You should copy/paste the skip in here_/
-- **`limit`**: /_You should copy/paste the limit in here_/
-
-
 ## Iteration 2
 
 **1. All the companies whose name match 'Babelgum'. Retrieve only their `name` field.**
